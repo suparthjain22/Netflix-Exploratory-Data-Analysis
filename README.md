@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Briefly describe the purpose and goals of your EDA project. Mention what dataset you're analyzing and what insights you aim to gain.
+The purpose of an Exploratory Data Analysis (EDA) project on a Netflix dataset involves analyzing and gaining insights from the data related to Netflix content, user interactions, or any other relevant information available in the dataset. EDA is a crucial step in understanding the characteristics and patterns within the data, and it serves several purposes.
 
 ## Project Structure
 
